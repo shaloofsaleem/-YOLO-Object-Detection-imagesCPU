@@ -8,7 +8,7 @@
 ##  YOLO Object Detection on images
 <br>
 <p align='center'>
-<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/Mockup-website.png" width='70%' >
+<img src="https://editor.analyticsvidhya.com/uploads/1512812.png" width='70%' >
 </p>
 <br>
 
